@@ -42,7 +42,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/whatsapp-ai-bot.git
+git clone https://github.com/Yusiko99/Whatsapp_AI_bot.git
 cd whatsapp-ai-bot
 ```
 
